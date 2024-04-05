@@ -1,0 +1,19 @@
+{
+  "name": "trivia_game_backend",
+  "version": "1.0.0",
+  "description": "This is the back-end for my trivia game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-Life-Hub/Trivia-Game-Back.git"
+  },
+  "author": "David Wright (Code-Life-Hub)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Code-Life-Hub/Trivia-Game-Back/issues"
+  },
+  "homepage": "https://github.com/Code-Life-Hub/Trivia-Game-Back#readme"
+}
